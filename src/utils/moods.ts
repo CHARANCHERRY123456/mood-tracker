@@ -12,6 +12,7 @@ export function addMood(entry : Omit<MoodType , 'timestamp'>) {
         ...entry,
         timestamp : new Date().toISOString(),
     });
+    alert("Mood added successfully!");
 }
 
 export function getMoods(){
