@@ -1,3 +1,5 @@
+# Vercel Deployed URL link : https://mood-tracker-swart-three.vercel.app/
+
 # Mini Employee Mood Tracker
 
 A simple full-stack app built with **Next.js App Router**, **TailwindCSS**, **Shadcn/UI**, and **TypeScript**.
